@@ -1,0 +1,5 @@
+{
+  "name": "Leader Guard",
+  "description": "An open-source prototype for personal security assessment, featuring device analysis, communication monitoring, and risk dashboarding.",
+  "requestFramePermissions": ["geolocation"]
+}

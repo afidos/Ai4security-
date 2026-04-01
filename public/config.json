@@ -1,0 +1,12 @@
+{
+  "serverUrl": "http://localhost:3000",
+  "mockMode": true,
+  "language": "en",
+  "keywords": ["urgent", "password", "bank", "location", "threat"],
+  "blacklistNumbers": ["+999000111", "+888222333"],
+  "privacySettings": {
+    "collectApps": true,
+    "collectLocation": true,
+    "collectComms": true
+  }
+}
